@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "molecular_transducer",
+        "1": "texturemoleculartransformer"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -22,7 +22,10 @@
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
-    "mcreatorDependencies": [],
+    "mcreatorDependencies": [
+      "curios_api",
+      "playeranimator"
+    ],
     "currentGenerator": "forge-1.19.2",
     "credits": "Created using mod maker MCreator - https://www.youtube.com/watch?v\u003ddQw4w9WgXcQ good luck:)",
     "modElementsPackage": "net.beecube.icmcr",

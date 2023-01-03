@@ -1,0 +1,15 @@
+Java Launcher: C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\SemenGame\.mcreator\gradle\caches\modules-2\files-2.1\dev.kosmx.player-anim\player-animation-lib-forge\0.4.0-test1\fd04fc72226a7ff6bc7476d5ca57d3210a2ca611\player-animation-lib-forge-0.4.0-test1.jar, --output, C:\Users\SemenGame\.mcreator\gradle\caches\forge_gradle\deobf_dependencies\dev\kosmx\player-anim\player-animation-lib-forge\0.4.0-test1_mapped_official_1.19.2\player-animation-lib-forge-0.4.0-test1_mapped_official_1.19.2.jar, --mcp, C:\Users\SemenGame\.mcreator\gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.19.2\mapping-1.19.2-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\SemenGame\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.3.2\installertools-1.3.2-fatjar.jar
+Working directory: C:\Users\SemenGame\MCreatorWorkspaces\ic_mcr\build\_RenameSrg2Mcp_-483747519
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\SemenGame\.mcreator\gradle\caches\modules-2\files-2.1\dev.kosmx.player-anim\player-animation-lib-forge\0.4.0-test1\fd04fc72226a7ff6bc7476d5ca57d3210a2ca611\player-animation-lib-forge-0.4.0-test1.jar
+Output: C:\Users\SemenGame\.mcreator\gradle\caches\forge_gradle\deobf_dependencies\dev\kosmx\player-anim\player-animation-lib-forge\0.4.0-test1_mapped_official_1.19.2\player-animation-lib-forge-0.4.0-test1_mapped_official_1.19.2.jar
+MCP:    C:\Users\SemenGame\.mcreator\gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.19.2\mapping-1.19.2-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

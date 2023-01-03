@@ -1,0 +1,48 @@
+{
+  "mod_elements": [
+    {
+      "name": "MolecularTransformer",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molecular_transformer"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.ic_mcr.molecular_transformer": "Molecular Transformer"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ic_mcr",
+    "modName": "MCreator Industrial",
+    "version": "1.0.0",
+    "description": "a mod that looks like Industrial Craft 2, but created in MCreator",
+    "author": "Beecube, MCreator",
+    "websiteURL": "https://www.youtube.com/watch?v\u003ddQw4w9WgXcQ",
+    "license": "GNU General Public License version 2 (GPLv2)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "curios_api",
+      "playeranimator",
+      "reauth",
+      "terrablenderforge"
+    ],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://www.youtube.com/watch?v\u003ddQw4w9WgXcQ good luck:)",
+    "modElementsPackage": "net.beecube.icmcr",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
