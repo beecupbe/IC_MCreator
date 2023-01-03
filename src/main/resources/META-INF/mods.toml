@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="GNU General Public License version 2 (GPLv2)"
+
+[[mods]]
+modId="ic_mcr"
+version="1.0.0"
+displayName="MCreator Industrial"
+credits="Created using mod maker MCreator - https://www.youtube.com/watch?v=dQw4w9WgXcQ good luck:)"
+displayURL="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+authors="Beecube, MCreator"
+description='''
+a mod that looks like Industrial Craft 2, but created in MCreator
+'''
+
+[[dependencies.ic_mcr]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

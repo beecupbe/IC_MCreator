@@ -1,0 +1,31 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ic_mcr",
+    "modName": "MCreator Industrial",
+    "version": "1.0.0",
+    "author": "SemenGame, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "GNU General Public License version 2 (GPLv2)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.beecube.icmcr",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
